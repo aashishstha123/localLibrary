@@ -11,8 +11,8 @@
  
 > **Note** The code is visible only when we change the branch option from main to master
 
+![image](https://user-images.githubusercontent.com/69105660/197323793-06d8bccd-9721-400a-9506-0349481addaf.png)
 
-![image](https://user-images.githubusercontent.com/69105660/197323649-12659052-6758-42a8-a532-c3a8032a6957.png)
 
 
 ## To this
